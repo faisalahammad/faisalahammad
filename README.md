@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on [wordpress-support-engineer-resources](https://github.com/faisalahammad/wordpress-support-engineer-resources)<br><br>🌱 I’m currently learning PHP OOP & WP Plugin Development<br><br>📝 I regularly write articles on https://faisalahammad.com<br><br>💬 Ask me about WordPress, WP Contributions, & Customer Support<br><br>📫 How to reach me me@faisalahammad.com<br><br>📄 Know about my experiences https://t.ly/faisalCV<br><br>⚡ Fun fact: I love to explore new tools, tech, and play badminton.
 
+## My WordPress Activities
+[![Faisal's WordPress Activity](https://www.cardpress.us/card?username=faisalahammad&badges=true)](https://www.cardpress.us/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faahhr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faisalahammad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/faisalahammadwp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@faisalahammad) 
@@ -12,14 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faisalahammad&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahammad&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faisalahammad&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=faisalahammad&icon=5&color=3)](https://visitcount.itsvg.in)
